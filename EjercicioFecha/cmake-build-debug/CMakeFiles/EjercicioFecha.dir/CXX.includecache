@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WilliamPC/CLionProjects/EjercicioFecha/Fecha.cpp
+iostream
+-
+Fecha.h
+C:/Users/WilliamPC/CLionProjects/EjercicioFecha/Fecha.h
+
+C:/Users/WilliamPC/CLionProjects/EjercicioFecha/Fecha.h
+
+C:/Users/WilliamPC/CLionProjects/EjercicioFecha/main.cpp
+iostream
+-
+Fecha.h
+C:/Users/WilliamPC/CLionProjects/EjercicioFecha/Fecha.h
+

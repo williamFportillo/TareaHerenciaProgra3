@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WilliamPC/CLionProjects/facturaFerreteria/Factura.cpp
+Factura.h
+C:/Users/WilliamPC/CLionProjects/facturaFerreteria/Factura.h
+iostream
+-
+
+C:/Users/WilliamPC/CLionProjects/facturaFerreteria/Factura.h
+iostream
+-
+
+C:/Users/WilliamPC/CLionProjects/facturaFerreteria/main.cpp
+iostream
+-
+Factura.h
+C:/Users/WilliamPC/CLionProjects/facturaFerreteria/Factura.h
+

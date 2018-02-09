@@ -1,0 +1,3 @@
+C:/Users/WilliamPC/CLionProjects/facturaFerreteria/cmake-build-debug/CMakeFiles/facturaFerreteria.dir
+C:/Users/WilliamPC/CLionProjects/facturaFerreteria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WilliamPC/CLionProjects/facturaFerreteria/cmake-build-debug/CMakeFiles/rebuild_cache.dir

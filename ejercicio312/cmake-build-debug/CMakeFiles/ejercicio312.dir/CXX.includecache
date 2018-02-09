@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WilliamPC/CLionProjects/ejercicio312/Cuenta.cpp
+iostream
+-
+Cuenta.h
+C:/Users/WilliamPC/CLionProjects/ejercicio312/Cuenta.h
+
+C:/Users/WilliamPC/CLionProjects/ejercicio312/Cuenta.h
+
+C:/Users/WilliamPC/CLionProjects/ejercicio312/main.cpp
+iostream
+-
+Cuenta.h
+C:/Users/WilliamPC/CLionProjects/ejercicio312/Cuenta.h
+
